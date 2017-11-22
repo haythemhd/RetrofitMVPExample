@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="call_thread">Call With Thread</string>
+    <string name="call_asynctask">Call With AsyncTask</string>
+    <string name="call_with_retrofit">Call With Retrofit</string>
+    <string name="post">Posts</string>
+    <string name="comment">Comment With Retrofit</string>
+    <string name="check_network">Please check your network connection</string>
+    <string name="exit">EXIT</string>
+    <string name="no_internet">No internet available</string>
+</resources>
